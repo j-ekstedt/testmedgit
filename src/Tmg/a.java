@@ -2,6 +2,8 @@ package Tmg;
 
 public class a {
     public static void main(String[] args) {
-        System.out.println("detta är a");
+        for (int i = 0 ; i < 10 ; i++) {
+            System.out.println("detta är a");
+        }
     }
 }
