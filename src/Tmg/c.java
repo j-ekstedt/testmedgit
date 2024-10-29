@@ -10,4 +10,10 @@ public class c {
     public static void fekkyou(){
         System.out.println("fekkyou");
     }
+
+    public static void feekme(){
+        System.out.println("feekme?");
+        System.out.println("twi");
+        System.out.println("fekkyou");
+    }
 }
